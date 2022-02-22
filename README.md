@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Todo-List-App-in-React
 This Todos list app is made using React for getting a better understanding of it's structure and how React works.
->>>>>>> main
